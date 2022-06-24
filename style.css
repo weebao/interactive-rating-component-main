@@ -125,6 +125,7 @@ body {
 @media screen and (max-width: 376px) {
   .container {
     max-width: 18rem;
+    max-height: 18rem;
     border-radius: 20px;
     padding: 1.4rem;
   }
