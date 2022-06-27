@@ -100,12 +100,12 @@ body {
   background-color: white;
 }
 
-.container .container-after {
+.container-after {
   display: none;
   text-align: center;
 }
 
-.container .text-container {
+.text-container {
   color: var(--Orange);
   background-color: var(--Less-Dark-Blue);
   padding-top: 0.25rem;
