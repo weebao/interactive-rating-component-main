@@ -23,7 +23,7 @@
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/sass-and-radio-buttons-learned-oUwSVehoQY)
-- Live Site URL: [Article Preview](https://weebao.github.io/interactive-rating-component-main/)
+- Live Site URL: [Interactive Rating](https://weebao.github.io/interactive-rating-component-main/)
 
 ## My process
 
